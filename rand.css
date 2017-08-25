@@ -11,14 +11,14 @@ body {
 
   height: 100vh;
 
-  font-family: lucida handwriting;
+  font-family: lucidahandwriting;
   background-color: grey;
   text-align: center;
 }
 
 button {
   font-size: 24px;
-  font-family: lucida handwritng;
+  font-family: lucidahandwritng;
 }
 
 img {
