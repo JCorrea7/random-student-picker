@@ -21,6 +21,10 @@ var students = [
   "John",
   "Shonica",
   "Krystal"
+  
+  font-family: cursive;
+  background-color: light blue;
+  text-align: center;
 ];
 
 var colors = [
